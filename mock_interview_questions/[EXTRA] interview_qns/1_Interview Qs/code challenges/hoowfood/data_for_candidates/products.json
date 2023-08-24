@@ -1,0 +1,219 @@
+{
+    "627590": {
+        "protein": 7.14, 
+        "total_fat": 46.43, 
+        "carbs_bydiff": 42.86, 
+        "sugar_incNLEA": 39.29, 
+        "fiber": 3.6, 
+        "potassium": 307.0, 
+        "sodium": 71.0, 
+        "cholesterol": 18.0, 
+        "sat_fat": 28.57, 
+        "name": "bergamot orange milk chocolate, bergamot orange", 
+        "ingredients": [
+            "cocoa butter", 
+            "organic cane sugar", 
+            "cocoa mass", 
+            "milk solid", 
+            "low fat milk solid", 
+            "emulsifier"
+            ],
+        "serving_size": 28.0,
+        "serving_size_unit": "g"
+        }, 
+
+    "481753": {
+        "protein": 1.0, 
+        "total_fat": 4.5, 
+        "carbs_bydiff": 38.0, 
+        "sugar_incNLEA": 32.0, 
+        "fiber": 1.0, 
+        "sodium": 30.0, 
+        "sat_fat": 2.5, 
+        "name": "flag coconut bar", 
+        "ingredients": [
+            "shredded coconut", 
+            "sugar", 
+            "corn syrup", 
+            "sodium metabisulphite"
+            ],
+        "serving_size": 100.0,
+        "serving_size_unit": "g"
+        }, 
+        
+    "393054": {
+        "protein": 3.08, 
+        "total_fat": 3.85, 
+        "carbs_bydiff": 26.15, 
+        "sugar_incNLEA": 21.54, 
+        "sodium": 100.0, 
+        "sat_fat": 1.54, 
+        "fiber": 1.5, 
+        "name": "fudgsicle, the original fudge bars, chocolate, low fat", 
+        "ingredients": [
+            "nonfat milk", 
+            "sugar", 
+            "whey", 
+            "high fructose corn syrup", 
+            "water", 
+            "palm oil", 
+            "cocoa powder"
+            ],
+        "serving_size": 65.0,
+        "serving_size_unit": "g"
+        }, 
+    
+    "691240": {
+        "protein": 3.33, 
+        "carbs_bydiff": 76.67, 
+        "sugar_incNLEA": 60.0, 
+        "sodium": 83.0, 
+        "name": "mini marshmallows", 
+        "ingredients": [
+            "corn syrup", 
+            "sugar", 
+            "cornstarch", 
+            "water"
+            ],
+        "serving_size": 30.0,
+        "serving_size_unit": "g"
+        }, 
+        
+    "649602": {
+        "total_fat": 6.67, 
+        "carbs_bydiff": 13.33, 
+        "sodium": 67.0, 
+        "name": "coffee creamer, vanilla caramel", 
+        "ingredients": [
+            "water", 
+            "corn syrup", 
+            "vegetable oil",
+            "chicory root fiber"],
+        "serving_size": 15.0,
+        "serving_size_unit": "ml"
+        }, 
+        
+    "552550": {
+        "protein": 5.26, 
+        "carbs_bydiff": 73.68, 
+        "sugar_incNLEA": 47.37, 
+        "sodium": 39.0, 
+        "name": "gummy fangs candy", 
+        "ingredients": [
+            "corn syrup", 
+            "sugar", 
+            "cornstarch", 
+            "water", 
+            "glucose", 
+            "gelatin", 
+            "sodium lactate", 
+            "artificial flavor", 
+            "palm and coconut oil"
+            ],
+        "serving_size": 38.0,
+        "serving_size_unit": "g"
+        }, 
+    
+    "485690": {
+        "protein": 3.75, 
+        "total_fat": 1.04, 
+        "carbs_bydiff": 15.42, 
+        "sugar_incNLEA": 15.0, 
+        "potassium": 183.0, 
+        "sodium": 58.0, 
+        "cholesterol": 6.0, 
+        "sat_fat": 0.62, 
+        "name": "darigold, 1% low fat milk, strawberry", 
+        "ingredients": [
+            "lowfat milk", 
+            "sucrose", 
+            "glucose", 
+            "corn starch", 
+            "artificial flavor", 
+            "sea salt"
+            ],
+        "serving_size": 240.0,
+        "serving_size_unit": "ml"
+        }, 
+            
+    "430387": {
+        "carbs_bydiff": 91.89, 
+        "sugar_incNLEA": 86.49, 
+        "name": "taste of inspirations, drink mix, spiced apple cider", 
+        "ingredients": [
+            "cane sugar", 
+            "dehydrated apple"
+            ],
+        "serving_size": 18.5,
+        "serving_size_unit": "g"
+        }, 
+
+    "401481": {
+        "protein": 4.76, 
+        "total_fat": 4.76, 
+        "carbs_bydiff": 25.4, 
+        "sugar_incNLEA": 20.63, 
+        "sodium": 79.0, 
+        "cholesterol": 24.0, 
+        "sat_fat": 3.17, 
+        "name": "valu time, light ice cream, vanilla", 
+        "ingredients": [
+            "nonfat milk", 
+            "sugar", 
+            "buttermilk", 
+            "inulin",
+            "corn syrup", 
+            "whey" 
+            ],
+        "serving_size": 63.0,
+        "serving_size_unit": "g"
+        },
+
+    "585589": {
+        "carbs_bydiff": 82.86, 
+        "sugar_incNLEA": 82.86, 
+        "name": "green cookie icing", 
+        "ingredients": [
+            "sugar", 
+            "water", 
+            "corn syrup",
+            "lactose", 
+            "artificial flavor"
+            ],
+        "serving_size": 35.0,
+        "serving_size_unit": "g"
+        }, 
+
+    "517022": {
+        "protein": 13.33, 
+        "total_fat": 6.67, 
+        "carbs_bydiff": 73.33, 
+        "sodium": 700.0, 
+        "name": "crispy wafer crackers", 
+        "ingredients": [
+            "wheat flour", 
+            "milk solid", 
+            "salt", 
+            "sesame seed", 
+            "canola oil",
+            "sodium bicarbonate"
+            ],
+        "serving_size": 15.0,
+        "serving_size_unit": "g"
+        },
+
+    "527497": {
+        "protein": 6.98, 
+        "carbs_bydiff": 44.19, 
+        "sodium": 465.0,
+        "name": "french rolls", 
+        "ingredients": [
+            "wheat flour", 
+            "water", 
+            "sea salt", 
+            "yeast"
+            ],
+        "serving_size": 43.0,
+        "serving_size_unit": "g"
+        }
+}

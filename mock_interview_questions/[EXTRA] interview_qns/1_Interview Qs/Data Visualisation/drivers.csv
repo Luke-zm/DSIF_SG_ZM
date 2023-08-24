@@ -1,0 +1,231 @@
+year,dot_value,dot_count,dot_label,fac_label,fac_order,color_outline,color_fill
+2017,67.3529,34,IND,Brand strength,6,grey,#003DA5
+2017,68.2609,46,DES,Brand strength,6,grey,#00874E
+2017,60.4167,24,EQL,Brand strength,6,grey,#EB7013
+2017,83.6111,72,GWL,Brand strength,6,grey,#000000
+2017,89.7368,76,SUN,Brand strength,6,grey,#A39A86
+2017,52.2222,36,EMP,Brand strength,6,grey,#F79A12
+2017,82.4324,74,MAN,Brand strength,6,grey,#A52D9F
+2017,65,14,GSC,Brand strength,6,grey,#81BC00
+2017,68.6364,22,SSQ,Brand strength,6,grey,#006349
+2017,70.8824,34,MBC,Brand strength,6,grey,#0093D0
+2017,81.7391,69,GWL,Overall service client,7,grey,#000000
+2017,73.4375,32,MBC,Overall service client,7,grey,#0093D0
+2017,81.6667,12,GSC,Overall service client,7,grey,#81BC00
+2017,79.6774,31,EMP,Overall service client,7,grey,#F79A12
+2017,84.5,20,EQL,Overall service client,7,grey,#EB7013
+2017,63.5714,70,MAN,Overall service client,7,grey,#A52D9F
+2017,81.7857,28,IND,Overall service client,7,grey,#003DA5
+2017,72.7778,18,SSQ,Overall service client,7,grey,#006349
+2017,83.6111,72,SUN,Overall service client,7,grey,#A39A86
+2017,66.0976,41,DES,Overall service client,7,grey,#00874E
+2017,70,21,SSQ,Overall svc to intermediaries,8,grey,#006349
+2017,63.6364,77,MAN,Overall svc to intermediaries,8,grey,#A52D9F
+2017,67.0455,44,DES,Overall svc to intermediaries,8,grey,#00874E
+2017,77.1429,14,GSC,Overall svc to intermediaries,8,grey,#81BC00
+2017,78.3562,73,GWL,Overall svc to intermediaries,8,grey,#000000
+2017,74.1667,36,MBC,Overall svc to intermediaries,8,grey,#0093D0
+2017,82.5,24,EQL,Overall svc to intermediaries,8,grey,#EB7013
+2017,80.9091,33,IND,Overall svc to intermediaries,8,grey,#003DA5
+2017,82.9114,79,SUN,Overall svc to intermediaries,8,grey,#A39A86
+2017,73.4211,38,EMP,Overall svc to intermediaries,8,grey,#F79A12
+2017,64.7059,68,MAN,Overall technology intermediary,2,grey,#A52D9F
+2017,74.7619,21,EQL,Overall technology intermediary,2,grey,#EB7013
+2017,77.7612,67,GWL,Overall technology intermediary,2,grey,#000000
+2017,79.3056,72,SUN,Overall technology intermediary,2,grey,#A39A86
+2017,69.3333,15,SSQ,Overall technology intermediary,2,grey,#006349
+2017,65.5882,34,MBC,Overall technology intermediary,2,grey,#0093D0
+2017,70,13,GSC,Overall technology intermediary,2,grey,#81BC00
+2017,66.0606,33,EMP,Overall technology intermediary,2,grey,#F79A12
+2017,70.3846,26,IND,Overall technology intermediary,2,grey,#003DA5
+2017,65.4286,35,DES,Overall technology intermediary,2,grey,#00874E
+2017,72.3611,36,MBC,Price competitiveness,3,grey,#0093D0
+2017,65.3846,13,GSC,Price competitiveness,3,grey,#81BC00
+2017,77.2727,33,IND,Price competitiveness,3,grey,#003DA5
+2017,69.1549,71,GWL,Price competitiveness,3,grey,#000000
+2017,77.5676,74,MAN,Price competitiveness,3,grey,#A52D9F
+2017,73.7143,35,EMP,Price competitiveness,3,grey,#F79A12
+2017,67.8571,42,DES,Price competitiveness,3,grey,#00874E
+2017,74.7826,23,EQL,Price competitiveness,3,grey,#EB7013
+2017,76.3636,77,SUN,Price competitiveness,3,grey,#A39A86
+2017,67.2727,22,SSQ,Price competitiveness,3,grey,#006349
+2017,70,43,DES,True to label,5,grey,#00874E
+2017,80.9091,33,IND,True to label,5,grey,#003DA5
+2017,81.0811,74,SUN,True to label,5,grey,#A39A86
+2017,78.2857,70,GWL,True to label,5,grey,#000000
+2017,74.375,32,MBC,True to label,5,grey,#0093D0
+2017,87.1429,14,GSC,True to label,5,grey,#81BC00
+2017,86.25,24,EQL,True to label,5,grey,#EB7013
+2017,68.125,72,MAN,True to label,5,grey,#A52D9F
+2017,77.4286,35,EMP,True to label,5,grey,#F79A12
+2017,75.2381,21,SSQ,True to label,5,grey,#006349
+2017,73.4286,35,EMP,Value of offer,4,grey,#F79A12
+2017,78.4375,32,IND,Value of offer,4,grey,#003DA5
+2017,83.1507,73,SUN,Value of offer,4,grey,#A39A86
+2017,78.5507,69,GWL,Value of offer,4,grey,#000000
+2017,74.5,20,SSQ,Value of offer,4,grey,#006349
+2017,83.0435,23,EQL,Value of offer,4,grey,#EB7013
+2017,70.2083,72,MAN,Value of offer,4,grey,#A52D9F
+2017,70,41,DES,Value of offer,4,grey,#00874E
+2017,78.5714,14,GSC,Value of offer,4,grey,#81BC00
+2017,77.5758,33,MBC,Value of offer,4,grey,#0093D0
+2018,58.1818,22,EMP,Brand strength,6,grey,#F79A12
+2018,89.875,80,SUN,Brand strength,6,grey,#A39A86
+2018,72,30,MBC,Brand strength,6,grey,#0093D0
+2018,65.7143,28,IND,Brand strength,6,grey,#003DA5
+2018,71.0345,29,SSQ,Brand strength,6,grey,#006349
+2018,74.5455,22,GSC,Brand strength,6,grey,#81BC00
+2018,82.875,80,GWL,Brand strength,6,grey,#000000
+2018,83.6,75,MAN,Brand strength,6,grey,#A52D9F
+2018,70.7143,42,DES,Brand strength,6,grey,#00874E
+2018,68.3333,18,EQL,Brand strength,6,grey,#EB7013
+2018,78.4615,26,SSQ,Overall service client,7,grey,#006349
+2018,72.75,40,DES,Overall service client,7,grey,#00874E
+2018,78.1481,81,GWL,Overall service client,7,grey,#000000
+2018,81.1111,18,EMP,Overall service client,7,grey,#F79A12
+2018,81.1765,17,EQL,Overall service client,7,grey,#EB7013
+2018,76.0714,28,MBC,Overall service client,7,grey,#0093D0
+2018,86.3636,22,GSC,Overall service client,7,grey,#81BC00
+2018,66.4935,77,MAN,Overall service client,7,grey,#A52D9F
+2018,81.7284,81,SUN,Overall service client,7,grey,#A39A86
+2018,75.5556,27,IND,Overall service client,7,grey,#003DA5
+2018,76.4516,31,IND,Overall svc to intermediaries,8,grey,#003DA5
+2018,80.3448,29,MBC,Overall svc to intermediaries,8,grey,#0093D0
+2018,77.2289,83,GWL,Overall svc to intermediaries,8,grey,#000000
+2018,75.8065,31,SSQ,Overall svc to intermediaries,8,grey,#006349
+2018,84.0909,22,EMP,Overall svc to intermediaries,8,grey,#F79A12
+2018,82.9167,24,GSC,Overall svc to intermediaries,8,grey,#81BC00
+2018,83.9024,82,SUN,Overall svc to intermediaries,8,grey,#A39A86
+2018,67.9114,79,MAN,Overall svc to intermediaries,8,grey,#A52D9F
+2018,86.4706,17,EQL,Overall svc to intermediaries,8,grey,#EB7013
+2018,74.7619,42,DES,Overall svc to intermediaries,8,grey,#00874E
+2018,68.3333,24,IND,Overall technology intermediary,2,grey,#003DA5
+2018,77.7215,79,GWL,Overall technology intermediary,2,grey,#000000
+2018,80.6579,76,SUN,Overall technology intermediary,2,grey,#A39A86
+2018,76.4,25,SSQ,Overall technology intermediary,2,grey,#006349
+2018,67.0588,17,EMP,Overall technology intermediary,2,grey,#F79A12
+2018,67.7778,27,MBC,Overall technology intermediary,2,grey,#0093D0
+2018,68.3099,71,MAN,Overall technology intermediary,2,grey,#A52D9F
+2018,69.1429,35,DES,Overall technology intermediary,2,grey,#00874E
+2018,77.1429,21,GSC,Overall technology intermediary,2,grey,#81BC00
+2018,75.8824,17,EQL,Overall technology intermediary,2,grey,#EB7013
+2018,73.4483,29,IND,Price competitiveness,3,grey,#003DA5
+2018,74.878,82,SUN,Price competitiveness,3,grey,#A39A86
+2018,69.0244,82,GWL,Price competitiveness,3,grey,#000000
+2018,72,30,SSQ,Price competitiveness,3,grey,#006349
+2018,78.75,16,EQL,Price competitiveness,3,grey,#EB7013
+2018,75.6667,30,MBC,Price competitiveness,3,grey,#0093D0
+2018,72.6829,41,DES,Price competitiveness,3,grey,#00874E
+2018,75.5,20,EMP,Price competitiveness,3,grey,#F79A12
+2018,75.8333,24,GSC,Price competitiveness,3,grey,#81BC00
+2018,76.7949,78,MAN,Price competitiveness,3,grey,#A52D9F
+2018,83,10,EQL,Quality of mobile application,1,grey,#EB7013
+2018,87.5714,70,SUN,Quality of mobile application,1,grey,#A39A86
+2018,79.1045,67,GWL,Quality of mobile application,1,grey,#000000
+2018,70.5263,19,SSQ,Quality of mobile application,1,grey,#006349
+2018,81.5789,19,GSC,Quality of mobile application,1,grey,#81BC00
+2018,76.6667,30,DES,Quality of mobile application,1,grey,#00874E
+2018,77.1186,59,MAN,Quality of mobile application,1,grey,#A52D9F
+2018,67.5,8,EMP,Quality of mobile application,1,grey,#F79A12
+2018,78.5185,27,MBC,Quality of mobile application,1,grey,#0093D0
+2018,77,20,IND,Quality of mobile application,1,grey,#003DA5
+2018,72.963,27,IND,True to label,5,grey,#003DA5
+2018,80.4878,82,SUN,True to label,5,grey,#A39A86
+2018,82.2222,18,EQL,True to label,5,grey,#EB7013
+2018,75.061,82,GWL,True to label,5,grey,#000000
+2018,75.3571,28,SSQ,True to label,5,grey,#006349
+2018,75,22,EMP,True to label,5,grey,#F79A12
+2018,80.9091,22,GSC,True to label,5,grey,#81BC00
+2018,69.75,40,DES,True to label,5,grey,#00874E
+2018,75.3333,30,MBC,True to label,5,grey,#0093D0
+2018,69.0909,77,MAN,True to label,5,grey,#A52D9F
+2018,70.6667,30,IND,Value of offer,4,grey,#003DA5
+2018,81.875,16,EQL,Value of offer,4,grey,#EB7013
+2018,83.625,80,SUN,Value of offer,4,grey,#A39A86
+2018,78.25,80,GWL,Value of offer,4,grey,#000000
+2018,72.8571,28,SSQ,Value of offer,4,grey,#006349
+2018,83.2,25,GSC,Value of offer,4,grey,#81BC00
+2018,72.75,40,DES,Value of offer,4,grey,#00874E
+2018,76.7857,28,MBC,Value of offer,4,grey,#0093D0
+2018,72,75,MAN,Value of offer,4,grey,#A52D9F
+2018,74,20,EMP,Value of offer,4,grey,#F79A12
+2019,89.875,80,SUN,Brand strength,6,grey,#D20000
+2019,82.875,80,GWL,Brand strength,6,grey,#000000
+2019,68.3333,18,EQL,Brand strength,6,grey,#EB7013
+2019,71.0345,29,SSQ,Brand strength,6,grey,#006349
+2019,74.5455,22,GSC,Brand strength,6,grey,#81BC00
+2019,72,30,MBC,Brand strength,6,grey,#0093D0
+2019,70.7143,42,DES,Brand strength,6,grey,#00874E
+2019,83.6,75,MAN,Brand strength,6,grey,#A52D9F
+2019,58.1818,22,EMP,Brand strength,6,grey,#F79A12
+2019,65.7143,28,IND,Brand strength,6,grey,#003DA5
+2019,81.1111,18,EMP,Overall service client,7,grey,#F79A12
+2019,81.7284,81,SUN,Overall service client,7,grey,#D20000
+2019,78.1481,81,GWL,Overall service client,7,grey,#000000
+2019,81.1765,17,EQL,Overall service client,7,grey,#EB7013
+2019,78.4615,26,SSQ,Overall service client,7,grey,#006349
+2019,72.75,40,DES,Overall service client,7,grey,#00874E
+2019,76.0714,28,MBC,Overall service client,7,grey,#0093D0
+2019,86.3636,22,GSC,Overall service client,7,grey,#81BC00
+2019,66.4935,77,MAN,Overall service client,7,grey,#A52D9F
+2019,75.5556,27,IND,Overall service client,7,grey,#003DA5
+2019,86.4706,17,EQL,Overall svc to intermediaries,8,grey,#EB7013
+2019,77.2289,83,GWL,Overall svc to intermediaries,8,grey,#000000
+2019,83.9024,82,SUN,Overall svc to intermediaries,8,grey,#D20000
+2019,75.8065,31,SSQ,Overall svc to intermediaries,8,grey,#006349
+2019,84.0909,22,EMP,Overall svc to intermediaries,8,grey,#F79A12
+2019,80.3448,29,MBC,Overall svc to intermediaries,8,grey,#0093D0
+2019,82.9167,24,GSC,Overall svc to intermediaries,8,grey,#81BC00
+2019,67.9114,79,MAN,Overall svc to intermediaries,8,grey,#A52D9F
+2019,74.7619,42,DES,Overall svc to intermediaries,8,grey,#00874E
+2019,76.4516,31,IND,Overall svc to intermediaries,8,grey,#003DA5
+2019,68.3333,24,IND,Overall technology intermediary,2,grey,#003DA5
+2019,77.7215,79,GWL,Overall technology intermediary,2,grey,#000000
+2019,80.6579,76,SUN,Overall technology intermediary,2,grey,#D20000
+2019,67.0588,17,EMP,Overall technology intermediary,2,grey,#F79A12
+2019,69.1429,35,DES,Overall technology intermediary,2,grey,#00874E
+2019,76.4,25,SSQ,Overall technology intermediary,2,grey,#006349
+2019,77.1429,21,GSC,Overall technology intermediary,2,grey,#81BC00
+2019,67.7778,27,MBC,Overall technology intermediary,2,grey,#0093D0
+2019,68.3099,71,MAN,Overall technology intermediary,2,grey,#A52D9F
+2019,75.8824,17,EQL,Overall technology intermediary,2,grey,#EB7013
+2019,74.878,82,SUN,Price competitiveness,3,grey,#D20000
+2019,69.0244,82,GWL,Price competitiveness,3,grey,#000000
+2019,75.5,20,EMP,Price competitiveness,3,grey,#F79A12
+2019,72,30,SSQ,Price competitiveness,3,grey,#006349
+2019,75.6667,30,MBC,Price competitiveness,3,grey,#0093D0
+2019,75.8333,24,GSC,Price competitiveness,3,grey,#81BC00
+2019,76.7949,78,MAN,Price competitiveness,3,grey,#A52D9F
+2019,72.6829,41,DES,Price competitiveness,3,grey,#00874E
+2019,73.4483,29,IND,Price competitiveness,3,grey,#003DA5
+2019,78.75,16,EQL,Price competitiveness,3,grey,#EB7013
+2019,83,10,EQL,Quality of mobile application,1,grey,#EB7013
+2019,76.6667,30,DES,Quality of mobile application,1,grey,#00874E
+2019,87.5714,70,SUN,Quality of mobile application,1,grey,#D20000
+2019,79.1045,67,GWL,Quality of mobile application,1,grey,#000000
+2019,70.5263,19,SSQ,Quality of mobile application,1,grey,#006349
+2019,67.5,8,EMP,Quality of mobile application,1,grey,#F79A12
+2019,78.5185,27,MBC,Quality of mobile application,1,grey,#0093D0
+2019,81.5789,19,GSC,Quality of mobile application,1,grey,#81BC00
+2019,77.1186,59,MAN,Quality of mobile application,1,grey,#A52D9F
+2019,77,20,IND,Quality of mobile application,1,grey,#003DA5
+2019,72.963,27,IND,True to label,5,grey,#003DA5
+2019,82.2222,18,EQL,True to label,5,grey,#EB7013
+2019,80.4878,82,SUN,True to label,5,grey,#D20000
+2019,75.3571,28,SSQ,True to label,5,grey,#006349
+2019,75.061,82,GWL,True to label,5,grey,#000000
+2019,75.3333,30,MBC,True to label,5,grey,#0093D0
+2019,80.9091,22,GSC,True to label,5,grey,#81BC00
+2019,69.0909,77,MAN,True to label,5,grey,#A52D9F
+2019,69.75,40,DES,True to label,5,grey,#00874E
+2019,75,22,EMP,True to label,5,grey,#F79A12
+2019,70.6667,30,IND,Value of offer,4,grey,#003DA5
+2019,83.625,80,SUN,Value of offer,4,grey,#D20000
+2019,78.25,80,GWL,Value of offer,4,grey,#000000
+2019,81.875,16,EQL,Value of offer,4,grey,#EB7013
+2019,72.8571,28,SSQ,Value of offer,4,grey,#006349
+2019,72.75,40,DES,Value of offer,4,grey,#00874E
+2019,74,20,EMP,Value of offer,4,grey,#F79A12
+2019,76.7857,28,MBC,Value of offer,4,grey,#0093D0
+2019,72,75,MAN,Value of offer,4,grey,#A52D9F
+2019,83.2,25,GSC,Value of offer,4,grey,#81BC00
